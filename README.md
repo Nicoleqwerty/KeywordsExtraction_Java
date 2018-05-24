@@ -1,7 +1,6 @@
 # KeywordsExtraction_Java
 
-## 中文分词使用Stanford coreNLP
-中文分词结果：
+### 中文关键词抽取结果(top 10)：中文分词使用Stanford coreNLP
 大会=9
 卫生=7
 台湾=6
@@ -13,7 +12,7 @@
 议程=2
 参加=2
 
-## 英文分词结果
+### 英文关键词抽取结果(top 10)
 ZTE=17
 China=11
 Trump=11
